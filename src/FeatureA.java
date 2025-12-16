@@ -2,7 +2,8 @@
 
 public class FeatureA{
 
-    public static void main(String[] args) {
-        System.out.println("Hallo, das ist der Code von <Name>");
+    public static <String> void main(String[] args) {
+        java.lang.Object System;
+        System.out.println("Hallo, das ist der Code von <Eya>");
     }
 }
